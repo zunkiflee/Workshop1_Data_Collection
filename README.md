@@ -14,4 +14,4 @@
 9. Save ข้อมูลที่สมบูรณ์ 
 10. เรียนรู้คำสั่ง ฟังก์ชันต่างๆ ใน Pandas เช่น query, filter, summary, rename, groupby กับข้อมูลหนังสือ
 
-**ทดสอบ Merge**
+**ทดสอบ Merge ที่ branch test-merge**
