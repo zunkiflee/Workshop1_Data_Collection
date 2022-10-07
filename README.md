@@ -15,3 +15,5 @@
 10. เรียนรู้คำสั่ง ฟังก์ชันต่างๆ ใน Pandas เช่น query, filter, summary, rename, groupby กับข้อมูลหนังสือ
 
 **ทดสอบ Merge ที่ branch test-merge**
+
+**Test AdvancedGit**
