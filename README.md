@@ -1,4 +1,4 @@
-## Workshop Data Collection
+# Workshop Data Collection
 
 **สิ่งที่เรียนรู้จาก Workshop**
 
@@ -15,3 +15,11 @@
 10. เรียนรู้คำสั่ง ฟังก์ชันต่างๆ ใน Pandas เช่น query, filter, summary, rename, groupby กับข้อมูลหนังสือ
 
 **ทดสอบ Merge ที่ branch test-merge**
+
+# Git Advanced By DataTH 
+
+Hello World
+
+Agenda
+- Basic Git
+- Advanced Git
